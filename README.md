@@ -1,4 +1,4 @@
-# ⚡ Pulse Triage — Analisador Inteligente de Chamados com IA
+# ⚡ AI Customer Support — Analisador Inteligente de Chamados com IA
 
 > **Projeto de Estudos & Demonstrativo Técnico**  
 > Aplicação web desenvolvida para explorar conceitos de **Vibe Coding, Engenharia de Prompt e Orquestração de Agentes de IA** aplicados à automação de suporte ao cliente.
