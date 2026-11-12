@@ -34,6 +34,9 @@ O **AI Customer Support** é um painel inteligente que simula o recebimento de m
 <h3>cd SuporteComIA</h3>
 
 # 3. Instale as dependências: NodeJS e React
+
+<br>
+
 <img width="1422" height="519" alt="Primeira etapa instalar o NodeJS" src="https://github.com/user-attachments/assets/b6f145ef-9ded-4595-ab71-6d802255c721" />
 <img width="1414" height="670" alt="Segunda etapa instalar o React" src="https://github.com/user-attachments/assets/225c3b0c-cf8a-444a-9d23-ae2eceaebe04" />
 
@@ -48,7 +51,6 @@ O **AI Customer Support** é um painel inteligente que simula o recebimento de m
 
 # Interface da Aplicação :
 
-<br>
 <br>
 
 <img width="1876" height="988" alt="Suporte com IA img 2" src="https://github.com/user-attachments/assets/6ce31e12-81c4-4aa8-93bd-4d1722610b32" />
