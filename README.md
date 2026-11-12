@@ -44,7 +44,7 @@ O **AI Customer Support** é um painel inteligente que simula o recebimento de m
 <h3>No terminal, execute o comando: npm run dev</h3>
 
 # 6. Copie e cole o link no seu navegador
-<h3>http://localhost:5173 ou http://localhost:3000</h3>
+<h3>Logo após executar o comando acima, irá aparecer : http://localhost:5173 ou http://localhost:3000</h3>
 
 # Interface da Aplicação :
 
