@@ -27,15 +27,34 @@ O **AI Customer Support** é um painel inteligente que simula o recebimento de m
 
 ## 🚀 Como Executar o Projeto Localmente
 
-```bash
 # 1. Clone o repositório
-git clone [https://github.com/YorhanSD/SuporteComIA.git](https://github.com/YorhanSD/SuporteComIA.git)
+<h3>git clone [https://github.com/YorhanSD/SuporteComIA.git](https://github.com/YorhanSD/SuporteComIA.git)</h3>
 
 # 2. Acesse a pasta do projeto
-cd SuporteComIA
+<h3>cd SuporteComIA</h3>
 
-# 3. Instale as dependências
-npm install
+# 3. Instale as dependências: NodeJS e React
+<img width="1422" height="519" alt="Primeira etapa instalar o NodeJS" src="https://github.com/user-attachments/assets/b6f145ef-9ded-4595-ab71-6d802255c721" />
+<img width="1414" height="670" alt="Segunda etapa instalar o React" src="https://github.com/user-attachments/assets/225c3b0c-cf8a-444a-9d23-ae2eceaebe04" />
 
-# 4. Inicie o servidor de desenvolvimento
-npm run dev
+# 4. Reinicie a sua IDE
+<h3>Feche e abra novemente</h3>
+
+# 5. Inicie o servidor de desenvolvimento
+<h3>No terminal, execute o comando: npm run dev</h3>
+
+# 6. Copie e cole o link no seu navegador
+<h3>http://localhost:5173 ou http://localhost:3000</h3>
+
+# Interface da Aplicação :
+
+<br>
+
+<img width="1875" height="987" alt="Suporte com IA img 1" src="https://github.com/user-attachments/assets/c0183399-2661-427e-9d0f-7f3c9de9e55a" />
+<img width="1876" height="988" alt="Suporte com IA img 2" src="https://github.com/user-attachments/assets/9878fca4-bf2d-4eac-89f9-cd3fb1adc23b" />
+
+
+<br>
+
+<img width="1876" height="988" alt="Suporte com IA img 2" src="https://github.com/user-attachments/assets/6ce31e12-81c4-4aa8-93bd-4d1722610b32" />
+<img width="1875" height="987" alt="Suporte com IA img 1" src="https://github.com/user-attachments/assets/027a435a-06a5-4931-b53f-41c0dcc8fffb" />
