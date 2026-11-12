@@ -52,8 +52,6 @@ O **AI Customer Support** é um painel inteligente que simula o recebimento de m
 
 <img width="1875" height="987" alt="Suporte com IA img 1" src="https://github.com/user-attachments/assets/c0183399-2661-427e-9d0f-7f3c9de9e55a" />
 <img width="1876" height="988" alt="Suporte com IA img 2" src="https://github.com/user-attachments/assets/9878fca4-bf2d-4eac-89f9-cd3fb1adc23b" />
-
-
 <br>
 
 <img width="1876" height="988" alt="Suporte com IA img 2" src="https://github.com/user-attachments/assets/6ce31e12-81c4-4aa8-93bd-4d1722610b32" />
