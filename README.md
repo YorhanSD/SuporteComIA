@@ -7,7 +7,7 @@
 
 ## 🎯 Sobre o Projeto
 
-O **Pulse Triage** é um painel inteligente que simula o recebimento de mensagens, feedbacks ou chamados de suporte insatisfeitos e utiliza IA para automatizar o atendimento inicial:
+O **AI Customer Support** é um painel inteligente que simula o recebimento de mensagens, feedbacks ou chamados de suporte insatisfeitos e utiliza IA para automatizar o atendimento inicial:
 
 1. **Classificação Automática:** Categorização dinâmica do problema relatado.
 2. **Matriz de Urgência & Risco:** Avaliação do nível de severidade e risco de perda do cliente (*churn*).
